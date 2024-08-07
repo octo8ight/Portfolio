@@ -48,7 +48,7 @@ function Footer() {
                 rel="noopener noreferrer"
               >
                 <BsDiscord id="discord1"/>
-                <Tooltip anchorSelect="#discord1" place="top">viroz180237_1</Tooltip>
+                <Tooltip anchorSelect="#discord1" place="top">viroz180237</Tooltip>
               </a>
             </li>
             <li className="social-icons">
@@ -58,7 +58,7 @@ function Footer() {
                 rel="noopener noreferrer"
               >
                 <BsTelegram id="telegram1"/>
-                <Tooltip anchorSelect="#telegram1" place="top">@Stradivarius_2</Tooltip>
+                <Tooltip anchorSelect="#telegram1" place="top">@bliss100x</Tooltip>
               </a>
             </li>
           </ul>

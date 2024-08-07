@@ -106,7 +106,7 @@ function Home2() {
                   className="icon-colour  home-social-icons"
                 >
                   <BsDiscord id="discord"/>
-                  <Tooltip anchorSelect="#discord" place="top">viroz180237_1</Tooltip>
+                  <Tooltip anchorSelect="#discord" place="top">viroz180237</Tooltip>
                 </a>
               </li>
               <li className="social-icons">
@@ -116,7 +116,7 @@ function Home2() {
                   className="icon-colour home-social-icons"
                 >
                   <BsTelegram id="telegram"/>
-                  <Tooltip anchorSelect="#telegram" place="top">@Stradivarius_2</Tooltip>
+                  <Tooltip anchorSelect="#telegram" place="top">@bliss100x</Tooltip>
                 </a>
               </li>
             </ul>
