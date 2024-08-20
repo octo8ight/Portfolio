@@ -9,8 +9,8 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Luis Bayer </span>
-            from <span className="purple"> Munich, Germany.</span>
             <br />
+            I am a <span className="purple">Full Stack</span> and <span className="purple">Blockchain</span> developer.
             {/* I am currently employed as a software developer at Juspay.
             <br /> */}
             I have got <span className="purple">Bachelor's Degree</span> in Computer Science.
